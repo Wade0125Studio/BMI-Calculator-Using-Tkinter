@@ -13,6 +13,7 @@ _Snap of the program running in linux & windows environment:_
 <div align="center">
 <img src="https://github.com/Wade0125Studio/BMI-Calculator-Using-Tkinter/blob/main/images/Demo0.PNG">
 </div>
+Input Weight 80(kg) and height 180(cm).
 <div align="center">
 <img src="https://github.com/Wade0125Studio/BMI-Calculator-Using-Tkinter/blob/main/images/Demo1.PNG">
 </div>
