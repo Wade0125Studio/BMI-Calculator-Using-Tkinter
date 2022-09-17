@@ -1,6 +1,5 @@
-# Py-Calculator
+# BMI-Calculator
 ## _GUI Calculator made in python using tkinter_
-[![](https://i.ibb.co/DtWdrx4/icon.png)](#py-calculator)
 
 [![powered by](https://img.shields.io/badge/Powered%20by-Python%203-blue)](https://www.python.org/)
 [![powered by](https://img.shields.io/badge/Powered%20by-Tkinter-red)](https://docs.python.org/3/library/tkinter.html)
