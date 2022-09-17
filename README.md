@@ -10,6 +10,7 @@ Py-Calculator is a GUI calculator application with all the basic functionalities
 It can run on any system running Python 3 or above and having tkinter library.
 
 _Snap of the program running in linux & windows environment:_
+Start to running BMI-Calculator Application.
 <div align="center">
 <img src="https://github.com/Wade0125Studio/BMI-Calculator-Using-Tkinter/blob/main/images/Demo0.PNG">
 </div>
