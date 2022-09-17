@@ -19,17 +19,12 @@ Input Weight 80(kg) and height 180(cm).
 <div align="center">
 <img src="https://github.com/Wade0125Studio/BMI-Calculator-Using-Tkinter/blob/main/images/Demo1.PNG">
 </div>
+The application can output a windows.Tell as bmi values and remark.
 <div align="center">
 <img src="https://github.com/Wade0125Studio/BMI-Calculator-Using-Tkinter/blob/main/images/Demo2.PNG">
 </div>
 
-## Features 
 
-- Light weight
-- Open Source
-- No hidden attributes
-- Cross platform support
-- Easy to understand source code
 
 ## Requirements
 For the program to run, it needs the following **dependencies** to be installed in python:
@@ -42,14 +37,14 @@ _If not present, then install the libraries using pip or any other way of your c
 
 ## How to run
 As mentioned above, python version 3 is required to run this program.
-- First navigate to the 'Py-Calculator' folder.
+- First navigate to the 'BMI-Calculator-Using-Tkinter' folder.
 - Then run he following command:
 ```sh
-python calculator.py
+python bmi_calculator.py
 ```
 - & ignore if any warning shows up unless it conflicts with the program behaviour.
 
-- or Double Click calculator.exe
+- or Double Click bmi_calculator.exe
 
 
 
